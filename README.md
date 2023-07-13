@@ -1,5 +1,5 @@
 # makeup_autotests
-This README file provides an overview of three automated test scenarios for verifying the functionality of different marketplaces. Each scenario focuses on specific actions to be performed and expected results to be validated. 
+This README file provides an overview of four automated test scenarios for verifying the functionality of different marketplaces. Each scenario focuses on specific actions to be performed and expected results to be validated. 
 
 ## Test Scenario 1: Verify Price Filter
 
