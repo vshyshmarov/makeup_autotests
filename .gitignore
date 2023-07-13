@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6e6731bf85daeaa51e07b4acb5db0641065648a8
 # Logs
 logs
 *.log
@@ -129,7 +132,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 =======
 node_modules
 package-lock.json
 >>>>>>> 7370e51 (First commit)
+=======
+>>>>>>> 6e6731bf85daeaa51e07b4acb5db0641065648a8
