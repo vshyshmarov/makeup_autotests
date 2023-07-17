@@ -1,5 +1,5 @@
-const baseUrl = 'https://makeup.com.ua/ua/';
+// const baseUrl = 'https://makeup.com.ua';
 
-module.exports = {
-  baseUrl,
-};
+// module.exports = {
+//   baseUrl,
+// };

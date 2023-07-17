@@ -23,3 +23,7 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add('checking_url', () => {
+    cy.url().should('eq', ''.concat(Cypress.config('baseUrl'), '/ua/'));
+});
