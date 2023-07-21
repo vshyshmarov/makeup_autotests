@@ -21,7 +21,6 @@ describe('Price filter', () => {
     cy.get('.simple-slider-list__price').each(($price_item) => {
       let priceText = $price_item.text().replace(/[^\d.]/g, ''); 
       const price = parseFloat(priceText); 
-      console.log(priceText);
       expect(price).to.be.gte(0); 
       expect(price).to.be.lte(50);
     });

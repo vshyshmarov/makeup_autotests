@@ -41,4 +41,3 @@ describe('Order Product', () => {
       cy.wait(30000)
     })
   })
-  
